@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.pyc
+__pycache__/
+*.log
+
+# Build outputs
+build/
+.gradle/
+*.apk

@@ -1,0 +1,22 @@
+{
+  "name": "Mehâfetullâh (Allah Korkusu) - Abdülkâdir Geylânî",
+  "short_name": "Mehâfetullâh",
+  "description": "Gavs-ı A'zam Abdülkâdir Geylânî Hazretlerinin Mehâfetullâh (Allah Korkusu) adlı 121 sayfalık tam metin dijital eseri.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fcf6ea",
+  "theme_color": "#8b3a1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "cover.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "cover.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
